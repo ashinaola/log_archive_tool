@@ -8,3 +8,5 @@ To run:
 
 Command tool template:
   log_archive_tool [directory]
+
+https://roadmap.sh/projects/log-archive-tool
